@@ -3,10 +3,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.datica</groupId>
-	<artifactId>simple-war</artifactId>
+	<artifactId>DevOps-CICD-swar</artifactId>
 	<packaging>war</packaging>
 	<version>0.1</version>
-	<name>DevOps WAR File</name>
+	<name>DevOps CICD Flow WAR File</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
